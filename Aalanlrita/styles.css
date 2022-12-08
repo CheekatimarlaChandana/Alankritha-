@@ -1,0 +1,25 @@
+.chandana{
+    text-align: center;
+    background-color: brown;
+    color: brown;
+}
+#MAPS{
+    text-align: center;
+}
+.photo{
+    width: 300px;
+    height: 300px;
+}
+.para{
+    color: white;
+}
+#REVIEWS{
+    text-align:center;
+}
+aside {
+    float: right;
+    background-color: aliceblue;
+    font-style: Bold;
+    width: 15%;
+}
+
